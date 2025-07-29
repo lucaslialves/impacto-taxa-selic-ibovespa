@@ -1,4 +1,4 @@
-<<<<<<< HEAD
+
 # 📊 Impacto da Taxa Selic e das Reuniões do COPOM sobre o Desempenho do Ibovespa
 
 ## 📌 Contexto Profissional Simulado
